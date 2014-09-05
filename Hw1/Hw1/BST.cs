@@ -119,7 +119,7 @@ namespace Hw1
             }
             else
             {
-                return Math.Max(GetHeight(current_node.Left) + 1, GetHeight(current_node.Right));
+                return Math.Max(GetHeight(current_node.Left) + 1, GetHeight(current_node.Right) + 1);
             }
         }
 
@@ -162,7 +162,7 @@ namespace Hw1
         // a method for getting the lowest height
         public int GetLowestHeight()
         {
-            return (int)Math.Ceiling(Math.Log(counter,2));
+            return (int)Math.Ceiling(Math.Log(counter + 1,2));
         }
     }
 
