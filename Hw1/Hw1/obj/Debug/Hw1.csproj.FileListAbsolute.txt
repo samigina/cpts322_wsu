@@ -1,0 +1,6 @@
+C:\wsu_cpts\cpts322_wsu\Hw1\Hw1\bin\Debug\Hw1.exe.config
+C:\wsu_cpts\cpts322_wsu\Hw1\Hw1\bin\Debug\Hw1.exe
+C:\wsu_cpts\cpts322_wsu\Hw1\Hw1\bin\Debug\Hw1.pdb
+C:\wsu_cpts\cpts322_wsu\Hw1\Hw1\obj\Debug\Hw1.csprojResolveAssemblyReference.cache
+C:\wsu_cpts\cpts322_wsu\Hw1\Hw1\obj\Debug\Hw1.exe
+C:\wsu_cpts\cpts322_wsu\Hw1\Hw1\obj\Debug\Hw1.pdb
